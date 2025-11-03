@@ -1,0 +1,5 @@
+{
+  "name": "LMS Pro - Learning Management System",
+  "description": "A comprehensive, role-based Learning Management System (LMS) supporting Admins, Instructors, Students, and Content Creators. Features include course management, enrollment, progress tracking, and more, all built with a modern, responsive interface.",
+  "requestFramePermissions": []
+}
